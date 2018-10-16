@@ -26,7 +26,7 @@ NumPy is based on two earlier Python modules dealing with arrays. One of these i
 * Learn to read video, display video and save video.
 * Learn to capture from Camera and display it.
 * You will learn these functions : cv2.VideoCapture(), cv2.VideoWriter()
-<pre>## Capture Video from Camera
+<pre>Capture Video from Camera
 Often, we have to capture live stream with camera. OpenCV provides a very simple interface to this.
 Let’s capture a video from the camera (I am using the in-built webcam of my laptop), convert it 
 into grayscale video and display it. Just a simple task to get started.
