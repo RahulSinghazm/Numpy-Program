@@ -35,7 +35,7 @@ To capture a video, you need to create a VideoCapture object. Its argument can b
 index or the name of a video file.Device index is just the number to specify which camera.
 Normally one camera will be connected (as in my case). 
 So I simply pass 0 (or -1).
-You can select the second camera by passing 1 and so on. After that, you can capture frame-by-frame. But at the end,
-don’t forget to release the capture.</pre>
+You can select the second camera by passing 1 and so on. After that, you can capture frame-by-frame. 
+But at the end, don’t forget to release the capture.</pre>
 
 
